@@ -2,3 +2,5 @@
 * text=auto
 7194_4M_Performance\\(20240902-20241227\\).csv filter=lfs diff=lfs merge=lfs -text
 7194_4M_Performance\\(20240902-20241227\\).json filter=lfs diff=lfs merge=lfs -text
+7194_4M_Performance(20240902-20241227).csv filter=lfs diff=lfs merge=lfs -text
+7194_4M_Performance(20240902-20241227).json filter=lfs diff=lfs merge=lfs -text
